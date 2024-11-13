@@ -1,6 +1,6 @@
 # Pix2Persona Dataset
 
-This repository contains the dataset and resources related to our paper:
+This repository contains the dataset and resources related to our EMNLP 2024 Findings paper:
 
 **[From Pixels to Personas: Investigating and Modeling Self-Anthropomorphism in Human-Robot Dialogues](https://arxiv.org/pdf/2410.03870)**
 
@@ -18,11 +18,20 @@ The **Pix2Persona** dataset is a unique compilation designed to study self-anthr
 If you find this dataset useful, please cite our paper:
 
 ```bibtex
-@inproceedings{your_citation_key,
-  title={From Pixels to Personas: Investigating and Modeling Self-Anthropomorphism in Human-Robot Dialogues},
-  author={Your Name and Co-Authors},
-  booktitle={Conference Name},
-  year={2024}
+@inproceedings{li-etal-2024-pixels,
+    title = "From Pixels to Personas: Investigating and Modeling Self-Anthropomorphism in Human-Robot Dialogues",
+    author = "Li, Yu  and
+      Hazarika, Devamanyu  and
+      Jin, Di  and
+      Hirschberg, Julia  and
+      Liu, Yang",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2024",
+    month = nov,
+    year = "2024",
+    address = "Miami, Florida, USA",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.findings-emnlp.567",
+    pages = "9695--9713",
 }
 ```
 
